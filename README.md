@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hello! I'm Seba, a passionate software learner with a focus on Python. Currently studying Engineering Systems at UTN.<br><br>🌱 **Currently Learning:**<br># I'm currently studing English<br># Reading "Data Structures & Algorithms in Python"<br><br>🚀 **Skills:**<br># Languages: Python, CSS, Java, Haskell<br># Technologies: Flask, HTML, GitHub, Postman, MySQL, SQLAlchemy<br><br>💼 **Projects:**<br># Developed a website for a flat complex with a real-time availability display.<br># Backend for a task management app.<br><br>🎓 **Education:**<br># Studying Engineering Systems at UTN<br><br>📫 **Contact:**<br># Gmail: sebaalejandro.aguilera@gmail.com<br><br>I'm enthusiastic about collaborating on exciting projects and taking on new challenges in the software development field!
+
 
 
 # 💻 Tech Stack:
